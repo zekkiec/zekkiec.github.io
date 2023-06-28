@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qi Zhang / Personal Homepage"
+title                    : "Qi Zhang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Qi Zhang"
 description              : &description "A postgraduate student at Tsinghua University"
@@ -218,7 +218,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # Publications
   - scope:
       path: ""
       type: publications
