@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/paper-title-number-1
+collection: Publications
+permalink: /Publications/paper-title-number-1
 excerpt: 'Publications'
 ---
 
