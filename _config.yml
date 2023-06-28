@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qi Zhang / Site Title"
+title                    : "Qi Zhang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Qi Zhang"
 description              : &description "A postgraduate student at Tsinghua University"
