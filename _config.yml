@@ -7,16 +7,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "R. Stuart Geiger"
+title                    : "Qi Zhang"
 title_separator          : "-"
-name                     : &name "R. Stuart Geiger"
-description              : &description "computational ethnographer<br/>ethnographer of computation"
-url                      : https://stuartgeiger.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Qi Zhang"
+description              : &description "Interested in Statistics with Engineering Background"
+url                      : https://stuartgeiger.com # the base hostname & protocol for your site e.g. "https://zekkiec.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "staeiou/staeiou.github.io"
+repository               : "zekkiec/zekkiec.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-seo_description          : "Site for Richard Stuart Geiger, Professor of Communication and Data Science at UC San Diego"
+seo_description          : "Site for Qi Zhang, Master of Engineering at Tsinghua University"
 words_per_minute         : 160
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -55,14 +55,6 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : &twitter "staeiou"
-facebook:
-  username               : 
-  app_id                 :
-  publisher              :
-og_image                 : "site-logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -79,12 +71,11 @@ social:
 
 # Site Author
 author:
-  name             : "R. Stuart Geiger"
+  name             : "Qi Zhang"
   avatar           : "oban3.jpg"
-#  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego: <ul><li><a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a></li> <li><a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a></li></ul>"
-#  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego, in <ul> <li><a style="color: black;" href="http://communication.ucsd.edu">Department of Communication</a></li> <li><a style="color: black;" href="http://hdsi.ucsd.edu">Halıcıoğlu Data Science Institute</a></li> <li><a style="color: black;" href="http://ipe.ucsd.edu">Institute for Practical Ethics</a></li> </ul>"
-  bio              : "Ethnographer of computation and computational ethnographer <br> <br> Assistant Professor at UC San Diego, <a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a> & <a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a>"
-  location         : "San Diego, CA"
+#  bio              : "Interested in Statistics with Engineering Background. <br> <br> Master of Engineering at Tsinghua University: <ul><li><a style='color: black"
+#  bio              : "Interested in Statistics with Engineering Background. <br> <br> Master of Engineering at Tsinghua University: <ul><li><a style='color: black"
+  bio              : "Interested in Statistics with Engineering Background. <br> <br> Master of Engineering at Tsinghua University: <ul><li><a style='color: black"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
   email            :
@@ -95,7 +86,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "staeiou"
+  github           : "zekkiec"
   google_plus      :
   keybase          :
   instagram        : 
@@ -107,12 +98,12 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
-  # wikipedia        : "staeiou"
+  # wikipedia        : "zekkiec"
 
 
 # Reading Files
