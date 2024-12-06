@@ -14,4 +14,4 @@ Hi! I'm Qi Zhang, a PhD candidate at Tsinghua University, Beijing in the [School
 
 You can find my CV here: [Qi Zhang-Academic CV](../assets/cv-zq-v2.pdf).
 
-<embed src="https://zekkiec.github.io/cv-zq-v2.pdf" type="application/pdf" width="100%" />
+<embed src="https://zekkiec.github.io/assets/cv-zq-v2.pdf" type="application/pdf" width="100%" />
